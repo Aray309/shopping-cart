@@ -18,7 +18,7 @@
 .cartItemImg {
   border-radius: 50%;
   width: 50px;
-  height: 50px;
+  height: 10px;
   object-fit: cover;
 }
 
@@ -65,6 +65,13 @@
 .products {
   width: 30%;
   margin: 10px;
+}
+/* Custom Footer */
+.custom_footer{
+  height: 200px;
+  width: 100%;
+  background-color: #343a40;
+  color:white;
 }
 
 .summary {
